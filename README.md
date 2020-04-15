@@ -1,0 +1,6 @@
+# getFreeStones
+
+## Run
+``
+$ make start
+``
